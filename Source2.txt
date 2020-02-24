@@ -2,3 +2,4 @@ Python is the most popular language
 Rust is an up coming language
 Simon steward is the inventor of Selenium
 Rust's current version is 1.4.1
+Rust apps can be developed using IntelliJ IDEA IDE
